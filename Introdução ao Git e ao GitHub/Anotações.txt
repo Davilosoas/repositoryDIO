@@ -1,0 +1,1 @@
+Eu achei interessante como cada commit aponta para o seu pai, assim podemos ter um direcionamento completo sobre a timeline daquele repositório.
